@@ -11,8 +11,10 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "dotenv-safe": "^4.0.4",
+    "express": "^4.15.3",
     "node-uuid": "^1.4.8",
     "request": "^2.81.0",
-    "request-promise": "^4.2.1"
+    "request-promise": "^4.2.1",
+    "rxjs": "^5.4.1"
   }
 }
