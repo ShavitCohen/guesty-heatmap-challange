@@ -18,7 +18,8 @@ npm run start
     - 3 weeks ahead availability rate
     - Reviews analyze by seeking keywords which indicate satisfaction from the location
   - Sorting all listing by demand score
-  - Displaying only the first quarter of the entries
+  - Displaying only the first 10% of the entries
+- Everything is configureable from the constants.js
 
 #### Create map request example:
 ```
