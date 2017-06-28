@@ -31,4 +31,4 @@ npm run start
 -F "property_type=Apartment"
 ```
 #### Heat Map example:
-(London)[http://www.shavitc.com/guesty-heatmap-example/b2f9bcdb-3436-4eed-8655-1192e65e09e9.html]
+[London](http://www.shavitc.com/guesty-heatmap-example/b2f9bcdb-3436-4eed-8655-1192e65e09e9.html)
